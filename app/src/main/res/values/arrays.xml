@@ -7,4 +7,12 @@
         <item>Новосибирск</item>
         <item>Самара</item>
     </string-array>
+
+    <integer-array name="coat_of_arms">
+        <item>@drawable/msk</item>
+        <item>@drawable/spb</item>
+        <item>@drawable/ekb</item>
+        <item>@drawable/novosib</item>
+        <item>@drawable/samara</item>
+    </integer-array>
 </resources>
